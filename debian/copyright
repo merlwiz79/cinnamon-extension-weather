@@ -1,0 +1,12 @@
+Source: https://github.com/merlwiz79/cinnamon-extension-weather
+
+Files: *
+Copyright: 
+License: GPL-3.0+
+
+Files: debian/*
+Copyright: 
+License: GPL-3.0+
+
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-3".

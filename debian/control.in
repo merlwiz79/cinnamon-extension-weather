@@ -1,0 +1,20 @@
+Source: cinnamon-extension-weather
+Section: gnome
+Priority: extra
+Maintainer: merlwiz79 <mintmerlwiz79@gmail.com>
+Build-Depends: debhelper (>= 7),
+ cdbs,
+ gnome-pkg-tools,
+ intltool,
+ libglib2.0-dev,
+ python (>= 2.6.5),
+ libgnome-desktop-3-dev (>= 2.91.6)
+Standards-Version: 3.9.2
+Homepage: https://github.com/merlwiz79/cinnamon-extension-weather
+
+Package: cinnamon-extension-weather
+Architecture: all
+Depends: ${misc:Depends}, cinnamon, python (>= 2.6.5)
+Description: Weather extension for cinnamon
+ .
+ cinnamon-extension-weather is a simple extension for displaying weather notifications in Cinnamon.

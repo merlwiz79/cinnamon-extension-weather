@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cinnamon: Weather Configurator
+GenericName=Configurator for the Cinnamon Weather extension
+Exec=cinnamon-weather-extension-config
+Terminal=false
+Type=Application
+Icon=utilities-system-monitor
+Categories=GNOME;System;
