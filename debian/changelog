@@ -2,7 +2,7 @@ cinnamon-extension-weather (1.2.0) oneiric; urgency=medium
 
   * changed to load under cinnamon 1.2.0
 
- -- merlwiz79 <mintmerlwiz79@gmail.com>  Thu, 12 Jan 2012 20:38:00 -0600
+ -- merlwiz79 <mintmerlwiz79@gmail.com>  Mon, 23 Jan 2012 20:55:00 -0600
 
 cinnamon-extension-weather (1.1.3) oneiric; urgency=medium
 
